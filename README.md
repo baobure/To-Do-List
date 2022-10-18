@@ -5,6 +5,5 @@ This is a Full Stack To Do List Web Application created with EJS, Express with N
 https://secret-wave-96177.herokuapp.com/
 <p>
 <p>
-![](/screenshot.PNG)
-<p>
-https://secret-wave-96177.herokuapp.com/
+
+![](/screenshot.png)
